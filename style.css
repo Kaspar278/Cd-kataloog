@@ -12,3 +12,15 @@
 .trackText{width:100%}
 .trackDuration{display:block;float:none!important;font-size:12px;color:#aebdd1;margin-top:4px}
 .albumPosition{flex-shrink:0}
+
+/* Juhusliku CD valimine */
+.randomButton{width:100%;margin:0 0 8px;background:#3977d6;font-weight:650}
+#randomDialog{width:min(430px,94vw);padding:18px;max-height:85vh;overflow:auto}
+.randomDialogHead{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:15px}
+.randomDialogHead h2{margin:0}
+.randomDiscTop{display:flex;gap:14px;align-items:center;margin-bottom:18px}
+.randomThumb{width:80px;height:80px;object-fit:cover;border-radius:9px;flex-shrink:0}
+.randomInfo{min-width:0}
+.randomTracksHeading{margin:12px 0 6px}
+.randomTrack{padding:9px 0;border-bottom:1px solid #35435a}
+#randomAgain{width:100%;margin-top:18px}

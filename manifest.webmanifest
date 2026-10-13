@@ -1,6 +1,6 @@
 {
-  "name": "Minu CD-kogu",
-  "short_name": "CD-kogu",
+  "name": "CD-kataloog",
+  "short_name": "CD-kataloog",
   "description": "Isiklik CD-plaatide kataloog",
   "start_url": "./",
   "scope": "./",
