@@ -24,3 +24,5 @@
 .randomTracksHeading{margin:12px 0 6px}
 .randomTrack{padding:9px 0;border-bottom:1px solid #35435a}
 #randomAgain{width:100%;margin-top:18px}
+
+.headerTop{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}.headerTop h1{flex:1;min-width:0}.headerTop #albumCounter{font-size:12px;color:#dbeafe;white-space:nowrap;background:#334c78;padding:6px 8px;border-radius:8px;margin-top:1px}
